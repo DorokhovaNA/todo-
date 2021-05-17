@@ -1,0 +1,16 @@
+.footer {
+  display: block;
+  justify-content: center;
+}
+
+.text {
+  display: block;
+  font-family: Helvetica;
+  color: red;
+  text-align: center;
+  width: 600px;
+}
+
+.button {
+  left: 200px;
+}
