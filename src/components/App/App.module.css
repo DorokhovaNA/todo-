@@ -1,0 +1,17 @@
+body {
+  background: #c4c4c4;
+}
+
+.wrap {
+  display: flex;
+	justify-content: center;
+}
+
+.link {
+  text-decoration: none;
+  color: #4b0082;
+}
+
+.sidebar {
+  grid-area: sidebar;
+}
